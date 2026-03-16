@@ -1,0 +1,351 @@
+[INFO|2026-03-16 17:30:15] configuration_utils.py:672 >> loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B/snapshots/060db6499f32faf8b98477b0a26969ef7d8b9987/config.json
+[INFO|2026-03-16 17:30:15] configuration_utils.py:744 >> Model config Qwen2Config {
+  "architectures": [
+    "Qwen2ForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "dtype": "bfloat16",
+  "eos_token_id": 151643,
+  "hidden_act": "silu",
+  "hidden_size": 896,
+  "initializer_range": 0.02,
+  "intermediate_size": 4864,
+  "layer_types": [
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention"
+  ],
+  "max_position_embeddings": 32768,
+  "max_window_layers": 24,
+  "model_type": "qwen2",
+  "num_attention_heads": 14,
+  "num_hidden_layers": 24,
+  "num_key_value_heads": 2,
+  "pad_token_id": null,
+  "rms_norm_eps": 1e-06,
+  "rope_parameters": {
+    "rope_theta": 1000000.0,
+    "rope_type": "default"
+  },
+  "sliding_window": null,
+  "tie_word_embeddings": true,
+  "transformers_version": "5.3.0",
+  "use_cache": true,
+  "use_mrope": false,
+  "use_sliding_window": false,
+  "vocab_size": 151936
+}
+
+[INFO|2026-03-16 17:30:19] configuration_utils.py:672 >> loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B/snapshots/060db6499f32faf8b98477b0a26969ef7d8b9987/config.json
+[INFO|2026-03-16 17:30:19] configuration_utils.py:744 >> Model config Qwen2Config {
+  "architectures": [
+    "Qwen2ForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "dtype": "bfloat16",
+  "eos_token_id": 151643,
+  "hidden_act": "silu",
+  "hidden_size": 896,
+  "initializer_range": 0.02,
+  "intermediate_size": 4864,
+  "layer_types": [
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention"
+  ],
+  "max_position_embeddings": 32768,
+  "max_window_layers": 24,
+  "model_type": "qwen2",
+  "num_attention_heads": 14,
+  "num_hidden_layers": 24,
+  "num_key_value_heads": 2,
+  "pad_token_id": null,
+  "rms_norm_eps": 1e-06,
+  "rope_parameters": {
+    "rope_theta": 1000000.0,
+    "rope_type": "default"
+  },
+  "sliding_window": null,
+  "tie_word_embeddings": true,
+  "transformers_version": "5.3.0",
+  "use_cache": true,
+  "use_mrope": false,
+  "use_sliding_window": false,
+  "vocab_size": 151936
+}
+
+[INFO|2026-03-16 17:30:19] configuration_utils.py:672 >> loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B/snapshots/060db6499f32faf8b98477b0a26969ef7d8b9987/config.json
+[INFO|2026-03-16 17:30:19] configuration_utils.py:744 >> Model config Qwen2Config {
+  "architectures": [
+    "Qwen2ForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "dtype": "bfloat16",
+  "eos_token_id": 151643,
+  "hidden_act": "silu",
+  "hidden_size": 896,
+  "initializer_range": 0.02,
+  "intermediate_size": 4864,
+  "layer_types": [
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention"
+  ],
+  "max_position_embeddings": 32768,
+  "max_window_layers": 24,
+  "model_type": "qwen2",
+  "num_attention_heads": 14,
+  "num_hidden_layers": 24,
+  "num_key_value_heads": 2,
+  "pad_token_id": null,
+  "rms_norm_eps": 1e-06,
+  "rope_parameters": {
+    "rope_theta": 1000000.0,
+    "rope_type": "default"
+  },
+  "sliding_window": null,
+  "tie_word_embeddings": true,
+  "transformers_version": "5.3.0",
+  "use_cache": true,
+  "use_mrope": false,
+  "use_sliding_window": false,
+  "vocab_size": 151936
+}
+
+[INFO|2026-03-16 17:30:21] logging.py:144 >> Loading dataset identity.json...
+[INFO|2026-03-16 17:30:22] logging.py:144 >> Loading dataset alpaca_en_demo.json...
+[INFO|2026-03-16 17:31:03] configuration_utils.py:672 >> loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B/snapshots/060db6499f32faf8b98477b0a26969ef7d8b9987/config.json
+[INFO|2026-03-16 17:31:03] configuration_utils.py:744 >> Model config Qwen2Config {
+  "architectures": [
+    "Qwen2ForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "dtype": "bfloat16",
+  "eos_token_id": 151643,
+  "hidden_act": "silu",
+  "hidden_size": 896,
+  "initializer_range": 0.02,
+  "intermediate_size": 4864,
+  "layer_types": [
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention"
+  ],
+  "max_position_embeddings": 32768,
+  "max_window_layers": 24,
+  "model_type": "qwen2",
+  "num_attention_heads": 14,
+  "num_hidden_layers": 24,
+  "num_key_value_heads": 2,
+  "pad_token_id": null,
+  "rms_norm_eps": 1e-06,
+  "rope_parameters": {
+    "rope_theta": 1000000.0,
+    "rope_type": "default"
+  },
+  "sliding_window": null,
+  "tie_word_embeddings": true,
+  "transformers_version": "5.3.0",
+  "use_cache": true,
+  "use_mrope": false,
+  "use_sliding_window": false,
+  "vocab_size": 151936
+}
+
+[INFO|2026-03-16 17:31:03] logging.py:144 >> KV cache is disabled during training.
+[INFO|2026-03-16 17:31:03] modeling_utils.py:710 >> loading weights file model.safetensors from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B/snapshots/060db6499f32faf8b98477b0a26969ef7d8b9987/model.safetensors
+[INFO|2026-03-16 17:31:03] modeling_utils.py:779 >> Will use dtype=torch.bfloat16 as defined in model's config object
+[INFO|2026-03-16 17:31:03] configuration_utils.py:1014 >> Generate config GenerationConfig {
+  "bos_token_id": 151643,
+  "eos_token_id": 151643,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "use_cache": false
+}
+
+[INFO|2026-03-16 17:31:08] configuration_utils.py:967 >> loading configuration file generation_config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-0.5B/snapshots/060db6499f32faf8b98477b0a26969ef7d8b9987/generation_config.json
+[INFO|2026-03-16 17:31:08] configuration_utils.py:1014 >> Generate config GenerationConfig {
+  "bos_token_id": 151643,
+  "do_sample": false,
+  "eos_token_id": 151643,
+  "max_new_tokens": 2048
+}
+
+[INFO|2026-03-16 17:31:08] dynamic_module_utils.py:406 >> Could not locate the custom_generate/generate.py inside Qwen/Qwen2.5-0.5B.
+[INFO|2026-03-16 17:31:08] logging.py:144 >> Gradient checkpointing enabled.
+[INFO|2026-03-16 17:31:08] logging.py:144 >> Using torch SDPA for faster training and inference.
+[INFO|2026-03-16 17:31:08] logging.py:144 >> Upcasting trainable params to float32.
+[INFO|2026-03-16 17:31:08] logging.py:144 >> Fine-tuning method: Full
+[INFO|2026-03-16 17:31:08] logging.py:144 >> trainable params: 494,032,768 || all params: 494,032,768 || trainable%: 100.0000
+[WARNING|2026-03-16 17:31:08] trainer_utils.py:1236 >> The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'bos_token_id': None, 'pad_token_id': 151643}.
+[INFO|2026-03-16 17:31:08] trainer.py:1466 >> ***** Running training *****
+[INFO|2026-03-16 17:31:08] trainer.py:1467 >>   Num examples = 1,090
+[INFO|2026-03-16 17:31:08] trainer.py:1468 >>   Num Epochs = 3
+[INFO|2026-03-16 17:31:08] trainer.py:1469 >>   Num update steps per epoch = 69
+[INFO|2026-03-16 17:31:08] trainer.py:1470 >>   Instantaneous batch size per device = 2
+[INFO|2026-03-16 17:31:08] trainer.py:1473 >>   Total train batch size (w. parallel, distributed & accumulation) = 16
+[INFO|2026-03-16 17:31:08] trainer.py:1474 >>   Gradient Accumulation steps = 8
+[INFO|2026-03-16 17:31:08] trainer.py:1475 >>   Total optimization steps = 207
+[INFO|2026-03-16 17:31:08] trainer.py:1476 >>   Number of trainable parameters = 494,032,768
+[INFO|2026-03-16 17:31:41] logging.py:144 >> {'loss': 1.3517, 'learning_rate': 4.9954e-05, 'epoch': 0.07, 'throughput': 531.01}
+[INFO|2026-03-16 17:32:20] logging.py:144 >> {'loss': 1.4394, 'learning_rate': 4.9767e-05, 'epoch': 0.15, 'throughput': 524.50}
+[INFO|2026-03-16 17:32:58] logging.py:144 >> {'loss': 1.5400, 'learning_rate': 4.9438e-05, 'epoch': 0.22, 'throughput': 519.34}
+[INFO|2026-03-16 17:33:38] logging.py:144 >> {'loss': 1.6230, 'learning_rate': 4.8968e-05, 'epoch': 0.29, 'throughput': 519.53}
+[INFO|2026-03-16 17:34:17] logging.py:144 >> {'loss': 1.6066, 'learning_rate': 4.8360e-05, 'epoch': 0.37, 'throughput': 518.12}
+[INFO|2026-03-16 17:34:53] logging.py:144 >> {'loss': 1.4447, 'learning_rate': 4.7617e-05, 'epoch': 0.44, 'throughput': 516.60}
+[INFO|2026-03-16 17:35:28] logging.py:144 >> {'loss': 1.4996, 'learning_rate': 4.6745e-05, 'epoch': 0.51, 'throughput': 515.48}
+[INFO|2026-03-16 17:36:03] logging.py:144 >> {'loss': 1.3515, 'learning_rate': 4.5747e-05, 'epoch': 0.59, 'throughput': 514.62}
+[INFO|2026-03-16 17:36:36] logging.py:144 >> {'loss': 1.5517, 'learning_rate': 4.4630e-05, 'epoch': 0.66, 'throughput': 513.99}
+[INFO|2026-03-16 17:37:13] logging.py:144 >> {'loss': 1.4145, 'learning_rate': 4.3400e-05, 'epoch': 0.73, 'throughput': 513.56}
+[INFO|2026-03-16 17:37:50] logging.py:144 >> {'loss': 1.6554, 'learning_rate': 4.2064e-05, 'epoch': 0.81, 'throughput': 514.13}
+[INFO|2026-03-16 17:38:26] logging.py:144 >> {'loss': 1.5434, 'learning_rate': 4.0630e-05, 'epoch': 0.88, 'throughput': 513.55}
+[INFO|2026-03-16 17:39:05] logging.py:144 >> {'loss': 1.5216, 'learning_rate': 3.9105e-05, 'epoch': 0.95, 'throughput': 513.74}
+[INFO|2026-03-16 17:39:37] logging.py:144 >> {'loss': 1.1738, 'learning_rate': 3.7500e-05, 'epoch': 1.01, 'throughput': 513.76}
+[INFO|2026-03-16 17:40:11] logging.py:144 >> {'loss': 0.7326, 'learning_rate': 3.5823e-05, 'epoch': 1.09, 'throughput': 512.87}
+[INFO|2026-03-16 17:40:46] logging.py:144 >> {'loss': 0.6589, 'learning_rate': 3.4083e-05, 'epoch': 1.16, 'throughput': 512.76}
+[INFO|2026-03-16 17:41:24] logging.py:144 >> {'loss': 0.6599, 'learning_rate': 3.2291e-05, 'epoch': 1.23, 'throughput': 513.00}
+[INFO|2026-03-16 17:42:05] logging.py:144 >> {'loss': 0.6493, 'learning_rate': 3.0457e-05, 'epoch': 1.31, 'throughput': 513.42}
+[INFO|2026-03-16 17:42:41] logging.py:144 >> {'loss': 0.6118, 'learning_rate': 2.8592e-05, 'epoch': 1.38, 'throughput': 513.19}
+[INFO|2026-03-16 17:43:17] logging.py:144 >> {'loss': 0.5934, 'learning_rate': 2.6706e-05, 'epoch': 1.46, 'throughput': 513.41}
+[INFO|2026-03-16 17:43:17] trainer.py:3802 >> Saving model checkpoint to saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-100
+[INFO|2026-03-16 17:43:17] configuration_utils.py:434 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-100/config.json
+[INFO|2026-03-16 17:43:17] configuration_utils.py:803 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-100/generation_config.json
+[INFO|2026-03-16 17:43:47] modeling_utils.py:3438 >> Model weights saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-100/model.safetensors
+[INFO|2026-03-16 17:43:47] tokenization_utils_base.py:3258 >> chat template saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-100/chat_template.jinja
+[INFO|2026-03-16 17:43:47] tokenization_utils_base.py:2091 >> tokenizer config file saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-100/tokenizer_config.json
+[INFO|2026-03-16 17:45:08] logging.py:144 >> {'loss': 0.5558, 'learning_rate': 2.4810e-05, 'epoch': 1.53, 'throughput': 467.70}
+[INFO|2026-03-16 17:45:47] logging.py:144 >> {'loss': 0.5007, 'learning_rate': 2.2916e-05, 'epoch': 1.60, 'throughput': 469.76}
+[INFO|2026-03-16 17:46:22] logging.py:144 >> {'loss': 0.6288, 'learning_rate': 2.1033e-05, 'epoch': 1.68, 'throughput': 471.44}
+[INFO|2026-03-16 17:46:59] logging.py:144 >> {'loss': 0.7071, 'learning_rate': 1.9173e-05, 'epoch': 1.75, 'throughput': 472.90}
+[INFO|2026-03-16 17:47:37] logging.py:144 >> {'loss': 0.6401, 'learning_rate': 1.7347e-05, 'epoch': 1.82, 'throughput': 474.38}
+[INFO|2026-03-16 17:48:14] logging.py:144 >> {'loss': 0.5638, 'learning_rate': 1.5565e-05, 'epoch': 1.90, 'throughput': 475.80}
+[INFO|2026-03-16 17:48:50] logging.py:144 >> {'loss': 0.5835, 'learning_rate': 1.3837e-05, 'epoch': 1.97, 'throughput': 476.95}
+[INFO|2026-03-16 17:49:23] logging.py:144 >> {'loss': 0.5305, 'learning_rate': 1.2173e-05, 'epoch': 2.03, 'throughput': 478.00}
+[INFO|2026-03-16 17:49:58] logging.py:144 >> {'loss': 0.2670, 'learning_rate': 1.0583e-05, 'epoch': 2.10, 'throughput': 478.78}
+[INFO|2026-03-16 17:50:35] logging.py:144 >> {'loss': 0.2432, 'learning_rate': 9.0761e-06, 'epoch': 2.18, 'throughput': 479.70}
+[INFO|2026-03-16 17:51:10] logging.py:144 >> {'loss': 0.2370, 'learning_rate': 7.6609e-06, 'epoch': 2.25, 'throughput': 480.58}
+[INFO|2026-03-16 17:51:45] logging.py:144 >> {'loss': 0.1986, 'learning_rate': 6.3454e-06, 'epoch': 2.32, 'throughput': 481.30}
+[INFO|2026-03-16 17:52:24] logging.py:144 >> {'loss': 0.2359, 'learning_rate': 5.1373e-06, 'epoch': 2.40, 'throughput': 482.38}
+[INFO|2026-03-16 17:53:06] logging.py:144 >> {'loss': 0.1940, 'learning_rate': 4.0436e-06, 'epoch': 2.47, 'throughput': 483.70}
+[INFO|2026-03-16 17:53:45] logging.py:144 >> {'loss': 0.2227, 'learning_rate': 3.0704e-06, 'epoch': 2.54, 'throughput': 484.64}
+[INFO|2026-03-16 17:54:22] logging.py:144 >> {'loss': 0.1654, 'learning_rate': 2.2235e-06, 'epoch': 2.62, 'throughput': 485.26}
+[INFO|2026-03-16 17:54:56] logging.py:144 >> {'loss': 0.2336, 'learning_rate': 1.5077e-06, 'epoch': 2.69, 'throughput': 485.79}
+[INFO|2026-03-16 17:55:31] logging.py:144 >> {'loss': 0.2684, 'learning_rate': 9.2707e-07, 'epoch': 2.76, 'throughput': 486.42}
+[INFO|2026-03-16 17:56:05] logging.py:144 >> {'loss': 0.2306, 'learning_rate': 4.8501e-07, 'epoch': 2.84, 'throughput': 486.77}
+[INFO|2026-03-16 17:56:45] logging.py:144 >> {'loss': 0.2076, 'learning_rate': 1.8404e-07, 'epoch': 2.91, 'throughput': 487.48}
+[INFO|2026-03-16 17:56:45] trainer.py:3802 >> Saving model checkpoint to saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-200
+[INFO|2026-03-16 17:56:45] configuration_utils.py:434 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-200/config.json
+[INFO|2026-03-16 17:56:45] configuration_utils.py:803 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-200/generation_config.json
+[INFO|2026-03-16 17:56:57] modeling_utils.py:3438 >> Model weights saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-200/model.safetensors
+[INFO|2026-03-16 17:56:57] tokenization_utils_base.py:3258 >> chat template saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-200/chat_template.jinja
+[INFO|2026-03-16 17:56:57] tokenization_utils_base.py:2091 >> tokenizer config file saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-200/tokenizer_config.json
+[INFO|2026-03-16 17:57:57] logging.py:144 >> {'loss': 0.2101, 'learning_rate': 2.5908e-08, 'epoch': 2.98, 'throughput': 477.48}
+[INFO|2026-03-16 17:58:03] trainer.py:3802 >> Saving model checkpoint to saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-207
+[INFO|2026-03-16 17:58:03] configuration_utils.py:434 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-207/config.json
+[INFO|2026-03-16 17:58:03] configuration_utils.py:803 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-207/generation_config.json
+[INFO|2026-03-16 17:58:13] modeling_utils.py:3438 >> Model weights saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-207/model.safetensors
+[INFO|2026-03-16 17:58:13] tokenization_utils_base.py:3258 >> chat template saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-207/chat_template.jinja
+[INFO|2026-03-16 17:58:13] tokenization_utils_base.py:2091 >> tokenizer config file saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/checkpoint-207/tokenizer_config.json
+[INFO|2026-03-16 17:58:37] trainer.py:1820 >> 
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+[INFO|2026-03-16 17:58:37] trainer.py:3802 >> Saving model checkpoint to saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07
+[INFO|2026-03-16 17:58:37] configuration_utils.py:434 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/config.json
+[INFO|2026-03-16 17:58:37] configuration_utils.py:803 >> Configuration saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/generation_config.json
+[INFO|2026-03-16 17:58:55] modeling_utils.py:3438 >> Model weights saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/model.safetensors
+[INFO|2026-03-16 17:58:55] tokenization_utils_base.py:3258 >> chat template saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/chat_template.jinja
+[INFO|2026-03-16 17:58:55] tokenization_utils_base.py:2091 >> tokenizer config file saved in saves/Qwen2.5-0.5B/full/train_2026-03-16-17-29-07/tokenizer_config.json
+[WARNING|2026-03-16 17:58:55] logging.py:149 >> No metric eval_loss to plot.
+[WARNING|2026-03-16 17:58:55] logging.py:149 >> No metric eval_accuracy to plot.
+[INFO|2026-03-16 17:58:55] modelcard.py:263 >> Dropping the following result as it does not have all the necessary fields:
+{'task': {'name': 'Causal Language Modeling', 'type': 'text-generation'}}
